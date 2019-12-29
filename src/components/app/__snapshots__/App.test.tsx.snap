@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `null`;
+
+exports[`Link changes the class when hovered 1`] = `
+<div>
+  Hello
+</div>
+`;
+
+exports[`let 1`] = `null`;
+
+exports[`let s render App 1`] = `null`;
+
+exports[`let\`s render App 1`] = `null`;
+
+exports[`let\`ss render App 1`] = `null`;
+
+exports[`lets render App 1`] = `null`;
